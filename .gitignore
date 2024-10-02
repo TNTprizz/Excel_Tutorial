@@ -1,2 +1,4 @@
 *.docx
 ./Class_1/*.docx
+.DS_Store
+./Class_1/.DS_Store
